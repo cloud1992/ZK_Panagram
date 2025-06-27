@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@aztec/bb.js": "^0.82.2",
+    "@noir-lang/noir_js": "^1.0.0-beta.6",
+    "ethers": "6.13.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
